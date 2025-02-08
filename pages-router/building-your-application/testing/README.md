@@ -24,18 +24,18 @@ Since `async` Server Components are new to the React ecosystem, some tools do no
 
 See the guides below to learn how to set up Next.js with these commonly used testing tools:
 
-{% content-ref url="../../../app-router/building-your-application/testing/setting-up-vitest-with-next.js.md" %}
-[setting-up-vitest-with-next.js.md](../../../app-router/building-your-application/testing/setting-up-vitest-with-next.js.md)
+{% content-ref url="../../../building-your-application/testing/setting-up-vitest-with-next.js.md" %}
+[setting-up-vitest-with-next.js.md](../../../building-your-application/testing/setting-up-vitest-with-next.js.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../app-router/building-your-application/testing/jest.md" %}
-[jest.md](../../../app-router/building-your-application/testing/jest.md)
+{% content-ref url="../../../building-your-application/testing/jest.md" %}
+[jest.md](../../../building-your-application/testing/jest.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../app-router/building-your-application/testing/playwright.md" %}
-[playwright.md](../../../app-router/building-your-application/testing/playwright.md)
+{% content-ref url="../../../building-your-application/testing/playwright.md" %}
+[playwright.md](../../../building-your-application/testing/playwright.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../app-router/building-your-application/testing/cypress.md" %}
-[cypress.md](../../../app-router/building-your-application/testing/cypress.md)
+{% content-ref url="../../../building-your-application/testing/cypress.md" %}
+[cypress.md](../../../building-your-application/testing/cypress.md)
 {% endcontent-ref %}

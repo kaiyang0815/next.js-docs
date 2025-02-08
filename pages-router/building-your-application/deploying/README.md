@@ -381,15 +381,15 @@ if (process.env.NEXT_MANUAL_SIG_HANDLE) {
 }
 ```
 
-{% content-ref url="../../../app-router/building-your-application/deploying/production-checklist.md" %}
-[production-checklist.md](../../../app-router/building-your-application/deploying/production-checklist.md)
+{% content-ref url="../../../building-your-application/deploying/production-checklist.md" %}
+[production-checklist.md](../../../building-your-application/deploying/production-checklist.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../app-router/building-your-application/deploying/static-exports.md" %}
-[static-exports.md](../../../app-router/building-your-application/deploying/static-exports.md)
+{% content-ref url="../../../building-your-application/deploying/static-exports.md" %}
+[static-exports.md](../../../building-your-application/deploying/static-exports.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../app-router/building-your-application/deploying/multi-zones.md" %}
-[multi-zones.md](../../../app-router/building-your-application/deploying/multi-zones.md)
+{% content-ref url="../../../building-your-application/deploying/multi-zones.md" %}
+[multi-zones.md](../../../building-your-application/deploying/multi-zones.md)
 {% endcontent-ref %}
 

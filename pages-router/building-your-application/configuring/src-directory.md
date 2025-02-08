@@ -27,6 +27,6 @@ To use the `src` directory, move the `app` Router folder or `pages` Router folde
 
 ### Next Steps <a href="#next-steps" id="next-steps"></a>
 
-{% content-ref url="../../../app-router/getting-started/project-structure.md" %}
-[project-structure.md](../../../app-router/getting-started/project-structure.md)
+{% content-ref url="../../../getting-started/project-structure.md" %}
+[project-structure.md](../../../getting-started/project-structure.md)
 {% endcontent-ref %}

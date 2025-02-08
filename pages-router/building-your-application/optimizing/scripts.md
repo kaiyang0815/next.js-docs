@@ -6,42 +6,6 @@ description: Optimize 3rd party scripts with the built-in Script component.
 
 ## Script Optimization
 
-#### Layout Scripts
-
-To load a third-party script for multiple routes, import `next/script` and include the script directly in your layout component:
-
-```tsx
-import Script from 'next/script'
-
-export default function DashboardLayout({
-  children,
-}: {
-  children: React.ReactNode
-}) {
-  return (
-    <>
-      <section>{children}</section>
-      <Script src="https://example.com/script.js" />
-    </>
-  )
-}
-```
-
-```jsx
-import Script from 'next/script'
-
-export default function DashboardLayout({ children }) {
-  return (
-    <>
-      <section>{children}</section>
-      <Script src="https://example.com/script.js" />
-    </>
-  )
-}
-```
-
-The third-party script is fetched when the folder route (e.g. `dashboard/page.js`) or any nested route (e.g. `dashboard/settings/page.js`) is accessed by the user. Next.js will ensure the script will **only load once**, even if a user navigates between multiple routes in the same layout.
-
 #### Application Scripts
 
 To load a third-party script for all routes, import `next/script` and include the script directly in your root layout:

@@ -215,6 +215,6 @@ If you access the draft Route Handler (with `secret` and `slug`) from your headl
 
 See the API reference for more information on how to use Draft Mode.
 
-{% content-ref url="../../../app-router/api-reference/functions/draftmode.md" %}
-[draftmode.md](../../../app-router/api-reference/functions/draftmode.md)
+{% content-ref url="../../../api-reference/functions/draftmode.md" %}
+[draftmode.md](../../../api-reference/functions/draftmode.md)
 {% endcontent-ref %}

@@ -244,10 +244,10 @@ We recommend using `v13.4.20+` of Next.js to properly handle and apply nonces.
 
 ### Next Steps <a href="#next-steps" id="next-steps"></a>
 
-{% content-ref url="../../../app-router/building-your-application/routing/middleware.md" %}
-[middleware.md](../../../app-router/building-your-application/routing/middleware.md)
+{% content-ref url="../../../building-your-application/routing/middleware.md" %}
+[middleware.md](../../../building-your-application/routing/middleware.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../app-router/api-reference/functions/headers.md" %}
-[headers.md](../../../app-router/api-reference/functions/headers.md)
+{% content-ref url="../../../api-reference/functions/headers.md" %}
+[headers.md](../../../api-reference/functions/headers.md)
 {% endcontent-ref %}
